@@ -24,3 +24,8 @@
 
 # Typescript
 *.tsbuildinfo
+
+#
+my-blog/node_modules
+
+# others - sensitive
