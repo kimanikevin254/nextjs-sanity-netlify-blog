@@ -29,3 +29,4 @@
 my-blog/node_modules
 
 # others - sensitive
+sanity.*
